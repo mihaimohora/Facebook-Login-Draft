@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e1454457232e605715b7d7b4759e03ee41b846f9/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6c44354603e59313990df99ee54585f68f0d0ade/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_62057bad46ce8b029c20ba45805d12759fddc8ff/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f792fdf9874d87822c9c8e2a502c8fd297aa8375">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44fc5ce3230903e19b40d393021d3e2701f1b9f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3c8fdebb472da4bd76cd4aadf314bc50ebbac963/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_451d70e9678575f8df4cb855a5a1c656b5ba57d4/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0a64d2d80a1079a57f245cea597deb9cc42ca088/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.0_9a9fdf7894c840a5c4e7fb16db0d125bf6249ece/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_456c9eb0745f8d462aed883b0ceb3e393a745793/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_47bb3758ae01c0be6996b9156018b7899cf32239/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8a19995592dd8feeb3b3dbd64ea9f7785bdd9dd5/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/Applications/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f9997ca2f1825ed93c0855a566bbe2fd32d6afec/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="eb18f4196aa2ede7cb872d4804b90ae610bc7599">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_359a130a607747c23b74fef54b2d78f117010758/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c67dd94a88c60a02afba4d78f666406a588e2978/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_24e3af07683dfdd3c3c33a44f3f263c63e4589d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9349c647aff90a2ffca43dd3455919c73a5b71f2/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_609c169a9b4c6592f61b8160221ba0fb2fc01bf7/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_58e449a5551229546779dd1591c1052bf4065fac/classes.dex" />
+    </item>
+    <item
+        jar="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/home/mihai/AndroidWorkplace/FacebookLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.6.0_fe8b9fc8ed749e58a27404c97666c8d4f31c9ba8/classes.dex" />
+    </item>
+
+</items>
